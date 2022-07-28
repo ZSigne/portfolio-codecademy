@@ -1,0 +1,29 @@
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0;
+}
+
+header img {
+    display: inline-block;
+    max-width: 35%;
+}
+
+nav {
+    text-align: right;
+    flex-grow: 1;
+    display: inline-block;
+}
+
+nav span {
+    display: inline-block;
+    padding: 20px 10px;
+}
+
+#portrait {
+    max-height: 200px;
+}
+
